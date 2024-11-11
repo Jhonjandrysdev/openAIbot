@@ -77,3 +77,50 @@ CHAT GPT:  Las mujeres entre 20-30 años suelen buscar recetas que sean práctic
 Las redes sociales son una plataforma potente para descubrir y compartir contenido inspirador, y las recetas que son visualmente atractivas o fáciles de personalizar suelen tener un gran atractivo.
 
 ```
+- Automatización de marketing (generación contenido dinamico)
+
+Generación de idea de guión para un contenido dinamico para una publicidad
+
+![alt text](image-1.png)
+
+```python
+PS C:\Users\USER\Desktop\OPENAI PYTHON> python index.py
+Hola, soy ChatGPT, ¿En que te puedo ayudar? :) - Ayudame a crear un guion sobre Atletico Nacional para un contenido dinamico para una publicidad en Facebook
+CHAT GPT:  ¡Claro! Aquí tienes una idea de guion para un contenido dinámico de publicidad en Facebook centrado en Atlético Nacional:
+
+---
+
+
+**[Escena 1: Imágenes rápidas de partidos épicos de Atlético Nacional, se escuchan sonidos de estadio y la voz de un narrador entusiasta.]**
+
+**Narrador:** "¡Vive la pasión del verde! Atlético Nacional, una historia llena de gloria y tradición."
+
+**[Escena 2: Imágenes de la ciudad de Medellín, hinchas vistiendo camisetas del equipo, familias y grupos de amigos compartiendo en el estadio.]**
+
+**Narrador:** "Medellín late al ritmo del fútbol, y el Atanasio Girardot se convierte en un mar de emociones."
+
+**[Escena 3: Clips de jugadores icónicos de Atlético Nacional celebrando goles impresionantes y momentos de triunfo. Música épica de fondo.]**
+
+**Narrador:** "Jugadas que inspiran, victorias que nos unen. Celebra cada gol, cada triunfo con el equipo de tus amores."
+
+**[Escena 4: Primeros planos de hinchas en diversas situaciones: un niño en su primer partido, una abuela con sus nietos, un grupo de amigos con banderas y caras pintadas.]**
+
+**Narrador:** "Una pasión que se hereda, un amor que se comparte. Porque ser del verde no es solo seguir un equipo, es pertenecer a una familia."
+
+**[Escena 5: Logo de Atlético Nacional y un llamado a la acción.]**
+
+**Narrador:** "Únete a la historia, siente el orgullo y comparte la alegría. Visita nuestra página y entérate de cómo ser parte de esta gran familia."
+
+**[Texto en pantalla: "Atlético Nacional. ¡Por siempre orgullosos, por siempre verdes!"]**
+
+---
+
+**Llamado a la acción final:**
+
+"Visítanos en Facebook/AtleticoNacional y descubre cómo ser parte de la pasión verdolaga. ¡Te esperamos!"
+
+---
+
+Este guion está diseñado para captar la emoción y pasión de ser hincha de Atlético Nacional, destacando la conexión emocional con los seguidores y motivándolos a interactuar más con el contenido en redes sociales.
+
+```
