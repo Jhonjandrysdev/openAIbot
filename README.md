@@ -40,4 +40,4 @@ CHAT GPT:  Claro, aquí tienes tres sabores populares de pizza:
 ¡Espero que encuentres alguno de estos a tu gusto!
 ```
 # SEGURIDAD PARA MANEJAR API Y DATOS SENSIBLES
-Para manejar la seguridad de la API y los datos sensibles 
+Para manejar la seguridad de la API y los datos sensibles, se almacena la API KEY en una variable de entorno directamente en el computador, y el sistema al ejecutar el archivo, se setea y toman la información almacenada de la API que esta almacenada globalmente en el equipo. 
