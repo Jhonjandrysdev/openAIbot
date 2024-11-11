@@ -41,3 +41,39 @@ CHAT GPT:  Claro, aquí tienes tres sabores populares de pizza:
 ```
 # SEGURIDAD PARA MANEJAR API Y DATOS SENSIBLES
 Para manejar la seguridad de la API y los datos sensibles, se almacena la API KEY en una variable de entorno directamente en el computador, y el sistema al ejecutar el archivo, se setea y toman la información almacenada de la API que esta almacenada globalmente en el equipo. 
+
+# APLICACIONES EN CONTEXTO DE MARKETING
+En este contexto, se puede tomar como ejemplo, la publicidad por redes sociales, para consultarle a la API por medio del prompt el siguiente ejemplo:
+
+- Publicidad en poblaciones femeninas entre los 20-30 años
+
+![alt text](image.png)
+
+```python
+PS C:\Users\USER\Desktop\OPENAI PYTHON> python index.py
+Hola, soy ChatGPT, ¿En que te puedo ayudar? :) : ¿Que recetas quieren ver las mujeres entre 20-30 años en redes sociales?
+CHAT GPT:  Las mujeres entre 20-30 años suelen buscar recetas que sean prácticas, saludables y a menudo inspiradas en tendencias actuales. Algunas de las recetas que podrían interesarles son:
+
+1. **Platos saludables y rápidos**: Ensaladas nutritivas con ingredientes frescos, buddha bowls, o wraps de vegetales.
+
+2. **Recetas de desayuno energizante**: Tostadas de aguacate con toppings creativos, batidos verdes, y bowls de açai.
+
+3. **Cocina internacional**: Recetas de tacos al estilo de comida callejera, sushi fácil de preparar en casa, o curry tailandés.
+
+4. **Postres saludables**: Brownies de batata, galletas de avena y plátano, o helado de frutas casero sin azúcar añadido.
+
+5. **Alternativas vegetarianas o veganas**: Hamburguesas de legumbres, lasañas de berenjena, o "nuggets" de coliflor.
+
+6. **Comidas para meal prep**: Recomendaciones para preparar comidas en cantidad y establecer menús saludables para la semana.
+
+7. **Recetas con ingredientes de temporada**: Platillos que destacan ingredientes frescos y de temporada, como calabaza en otoño o espárragos en primavera.
+
+8. **Platos inspirados en tendencias de alimentación consciente**: Recetas que incorporan alimentos funcionales como el matcha, cúrcuma o aceites esenciales.
+
+9. **Cocina sostenible**: Recetas que aprovechan al máximo los ingredientes y minimizan el desperdicio de alimentos.
+
+10. **Recetas de "comida reconfortante" con un giro saludable**: Versiones ligeras de pizza, pasta o sopa.
+
+Las redes sociales son una plataforma potente para descubrir y compartir contenido inspirador, y las recetas que son visualmente atractivas o fáciles de personalizar suelen tener un gran atractivo.
+
+```
